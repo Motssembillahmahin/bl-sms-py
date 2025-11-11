@@ -5,24 +5,24 @@
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 
-A high-performance Python SDK and REST API gateway for integrating Banglalink operator bulk SMS services. Send promotional messages, OTPs, and transactional SMS with ease using FastAPI's async capabilities.[web:21][web:22]
+A high-performance Python SDK and REST API gateway for integrating Banglalink operator bulk SMS services. Send promotional messages, OTPs, and transactional SMS with ease using FastAPI's async capabilities.
 
 ## ✨ Features
 
-- **Fast & Async**: Built on FastAPI for high-performance async SMS operations[web:22]
+- **Fast & Async**: Built on FastAPI for high-performance async SMS operations
 - **Bulk SMS**: Send messages to thousands of recipients efficiently
 - **Delivery Reports**: Track message delivery status with webhook support
 - **Authentication**: Secure API key-based authentication
 - **Rate Limiting**: Built-in rate limiting to prevent API abuse
-- **Type Safety**: Full Pydantic validation for request/response models[web:22]
-- **Auto Documentation**: Interactive API docs with OpenAPI/Swagger UI[web:22]
+- **Type Safety**: Full Pydantic validation for request/response models
+- **Auto Documentation**: Interactive API docs with OpenAPI/Swagger UI
 - **Production Ready**: Docker support, logging, and error handling included
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 
-- Python 3.7+[web:22]
+- Python 3.7+
 - Banglalink SMS API credentials
 - `pip` or `uv` package manager
 
@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- [FastAPI](https://fastapi.tiangolo.com/) - The amazing web framework[web:22]
+- [FastAPI](https://fastapi.tiangolo.com/) - The amazing web framework
 - [Banglalink](https://www.banglalink.net/) - SMS service provider
 - All contributors who help improve this project
 
